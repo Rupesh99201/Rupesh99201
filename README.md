@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roopesh
 - 👀 I’m interested in Learning new skills
-- 🌱 I’m currently Full Stack and Machine Learning
-- 💞️ I’m looking to collaborate with other content Createer
+- 🌱 I’m currently FullStack and Machine Learning
+- 💞️ I’m looking to collaborate with other content Creators
 - 📫 How to reach me : rupesh99201@gmail.com,Mobile-No:7302466350
 
 <!---
